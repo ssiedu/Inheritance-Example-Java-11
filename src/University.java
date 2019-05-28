@@ -24,5 +24,10 @@ public class University {
         s3.showMEInfo();
         s3.result(44);
         
+        String s=s3.toString();
+        System.out.println(s);
+        
+        
+        
     }
 }

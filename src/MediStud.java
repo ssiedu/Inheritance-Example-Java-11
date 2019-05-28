@@ -8,6 +8,7 @@ public class MediStud extends Stud {
             System.out.println("MediStud Failed");
         }
     }
+    
     public void setMediInfo(int a){
         prof=a;
     }

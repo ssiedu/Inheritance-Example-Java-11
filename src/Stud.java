@@ -2,7 +2,7 @@ public class Stud {
     private int rno;
     private String name;
     
-    public void result(int marks){
+    protected void result(int marks){
         if(marks>=33){
             System.out.println("Student Passed");
         }else{
